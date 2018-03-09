@@ -1,2 +1,3 @@
 # hello-world
 Tutorial Repository
+Welllll, West Philidelphia born and raised, on the playground is where I spent most of my days...
